@@ -1,0 +1,5 @@
+node_modules
+*.wav
+build
+espeak-ng.src
+kokoro.js.src
