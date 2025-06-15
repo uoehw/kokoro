@@ -46,6 +46,7 @@ python3 example.py --voice=af_heart --lang=a ../text/audio.en.txt
 python3 example.py --voice=ef_dora --lang=e ../text/audio.es.txt
 python3 example.py --voice=jf_alpha --lang=j ../text/audio.ja.txt
 python3 example.py --voice=zf_xiaobei --lang=z ../text/audio.ch.txt
+python3 example.py --voice=ff_siwis --lang=f ../text/audio.fr.txt
 ```
 
 Play audio
@@ -55,6 +56,7 @@ python3 example.py --play --voice=af_heart --lang=a ../text/audio.en.txt
 python3 example.py --play --voice=ef_dora --lang=e ../text/audio.es.txt
 python3 example.py --play --voice=jf_alpha --lang=j ../text/audio.ja.txt
 python3 example.py --play --voice=zf_xiaobei --lang=z ../text/audio.ch.txt
+python3 example.py --play --voice=ff_siwis --lang=f ../text/audio.fr.txt
 ```
 
 # TODO:
